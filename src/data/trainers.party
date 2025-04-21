@@ -782,16 +782,39 @@ Items: Full Restore
 Double Battle: No
 AI: Basic Trainer
 
-Medicham
-Level: 43
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-- Psychic
+Glimmora @ Air Balloon  
+Ability: Toxic Debris  
+Level: 54  
+Tera Type: Rock  
+EVs: 252 HP / 4 Atk / 252 Spe  
+Jolly Nature  
+- Spikes  
+- Stealth Rock  
+- Mortal Spin  
+- Protect  
 
-Claydol
-Level: 43
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-- Skill Swap
-- Earthquake
+Gengar @ Sitrus Berry  
+Ability: Cursed Body  
+Level: 54  
+Tera Type: Ghost  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+- Metronome  
+- Protect  
+- Nasty Plot  
+- Shadow Ball  
+
+Duraludon @ Metal Coat  
+Ability: Heavy Metal  
+Level: 54  
+Tera Type: Steel  
+EVs: 248 HP / 8 SpA / 252 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Iron Defense  
+- Body Press  
+- Steel Beam  
+- Protect  
 
 === TRAINER_VIOLET ===
 Name: VIOLET
@@ -8624,17 +8647,38 @@ Music: Cool
 Items: Full Restore
 Double Battle: No
 
-Claydol
-Level: 43
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-- Skill Swap
-- Earthquake
+Blastoise @ Blastoisinite  
+Ability: Torrent  
+Level: 54  
+Tera Type: Water  
+EVs: 252 HP / 4 Atk / 252 Def  
+Relaxed Nature  
+- 15rounds  
+- Hydro Pump  
+- Rapid Spin  
+- Protect  
 
-Lanturn
-Level: 43
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-- Thunderbolt
-- Earthquake
+Baxcalibur @ Sitrus Berry  
+Ability: Thermal Exchange  
+Level: 54  
+Tera Type: Dragon  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Glaive Rush  
+- Icicle Spear  
+- Outrage  
+- Icicle Crash  
+
+Spiritomb @ Sitrus Berry  
+Ability: Pressure  
+Level: 54  
+Tera Type: Ghost  
+EVs: 248 HP / 8 Atk / 252 SpA  
+Quiet Nature  
+- Hypnosis  
+- Dream Eater  
+- Shadow Sneak  
+- Shadow Ball  
 
 === TRAINER_JANI ===
 Name: JANI
