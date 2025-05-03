@@ -6322,69 +6322,48 @@ Class: Winstrate
 Pic: Pokefan M
 Gender: Male
 Music: Twins
-Double Battle: No
+Double Battle: Yes
 AI: Check Bad Move
 
-Charizard @ Charcoal  
-Ability: Blaze  
-Level: 40  
-Tera Type: Electric  
-EVs: 4 HP / 244 SpA / 8 SpD / 248 Spe  
+Darmanitan-Galar (M) @ Choice Band  
+Ability: Gorilla Tactics  
+Level: 80  
+EVs: 4 HP / 252 Atk / 252 Spe  
+- Ice Punch  
+
+Ninetales-Alola (F) @ Icy Rock  
+Ability: Snow Warning  
+Level: 80  
+EVs: 252 SpA / 4 SpD / 252 Spe  
 Timid Nature  
-- Flamethrower  
-- Air Slash  
-- Dragon Pulse  
-- Tera Blast  
+IVs: 0 Atk  
+- Aurora Veil  
+- Dazzling Gleam  
+- Ice Beam  
+- Helping Hand  
 
-Mew @ Mewnium Z  
-Ability: Synchronize  
-Level: 41    
-EVs: 248 Atk / 4 SpA / 248 Spe  
-Hasty Nature  
-- Psychic  
-- Leech Life  
-- Darkest Lariat  
-- Shadow Ball  
+Articuno @ Leftovers  
+Ability: Snow Cloak  
+Level: 80  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Ancient Power  
+- Hyper Beam  
+- Blizzard  
+- Extrasensory  
 
-Scizor @ Scizorite  
-Ability: Technician  
-Level: 42    
-EVs: 252 HP / 248 Atk / 8 SpD  
+Lapras (F) @ Scope Lens  
+Ability: Shell Armor  
+Level: 85  
+Shiny: Yes  
+Gigantamax: Yes  
+EVs: 252 Atk / 4 SpD / 252 Spe  
 Adamant Nature  
-- Bullet Punch  
-- X-Scissor  
-- Dual Wingbeat  
-- Pounce  
-
-Miltank @ Sitrus Berry  
-Ability: Scrappy  
-Level: 43  
-EVs: 252 HP / 252 Atk  
-Adamant Nature  
-- Rollout  
-- Milk Drink  
-- Attract  
-- Body Slam  
-
-Sableye @ Leftovers  
-Ability: Prankster  
-Level: 44   
-EVs: 252 HP / 4 Atk / 248 SpD / 4 Spe  
-Careful Nature  
-- Thunder Wave  
-- Will-O-Wisp  
-- Toxic  
-- Shadow Claw  
-
-Hariyama @ Flame Orb  
-Ability: Guts  
-Level: 45    
-EVs: 244 HP / 252 Atk / 12 SpD  
-Adamant Nature  
-- Close Combat  
-- Earthquake  
-- Poison Jab  
-- Iron Head
+- Dragon Dance  
+- Megahorn  
+- Liquidation  
+- Ice Shard  
 
 === TRAINER_MIGUEL_1 ===
 Name: MIGUEL
@@ -6514,68 +6493,48 @@ Class: Winstrate
 Pic: Pokefan F
 Gender: Female
 Music: Twins
-Double Battle: No
+Double Battle: Yes
 AI: Check Bad Move / Try To Faint
 
-Empoleon @ Aguav Berry  
-Ability: Competitive  
-Level: 45   
+Politoed (F) @ Damp Rock  
+Ability: Drizzle  
+Level: 85  
+EVs: 248 HP / 248 SpA / 8 SpD / 4 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Weather Ball  
+- Helping Hand  
+- Ice Beam  
+- Hyper Voice  
+
+Barraskewda (M) @ Choice Band  
+Ability: Swift Swim  
+Level: 85  
+EVs: 4 HP / 252 Atk / 252 Spe  
+- Liquidation  
+
+Octillery (M) @ Scope Lens  
+Ability: Sniper  
+Level: 85  
 EVs: 252 HP / 252 SpA / 4 SpD  
 Modest Nature  
 IVs: 0 Atk  
-- Flash Cannon  
-- Surf  
-- Ice Beam  
-- Signal Beam  
-
-Spiritomb @ Life Orb  
-Ability: Pressure  
-Level: 46  
-Tera Type: Poison  
-- Dark Pulse  
-- Psyshock  
-- Shadow Ball  
-- Tera Blast  
-
-Haxorus @ Silver Powder  
-Ability: Mold Breaker  
-Level: 47   
-EVs: 252 Atk / 4 SpD / 252 Spe  
-Jolly Nature  
-- Outrage  
-- Close Combat  
-- Crunch  
-- First Impression  
-
-Garbodor @ Sitrus Berry  
-Ability: Weak Armor  
-Level: 48   
-EVs: 252 HP / 4 Atk / 252 SpA  
-Quiet Nature  
-- Belch  
-- Sludge Bomb  
-- Body Press  
-- Drain Punch  
-
-Vivillon-Pokeball @ Focus Sash  
-Ability: Shield Dust  
-Level: 49   
-EVs: 252 SpA / 4 SpD / 252 Spe  
-Modest Nature    
-- Quiver Dance  
-- Bug Buzz  
-- Air Slash  
 - Energy Ball  
+- Flamethrower  
+- Psychic  
+- Surf  
 
-Dedenne @ Sitrus Berry  
-Ability: Cheek Pouch  
-Level: 50    
-EVs: 252 SpA / 4 SpD / 252 Spe  
-Timid Nature   
-- Draining Kiss  
-- Thunderbolt  
-- Grass Knot  
-- Signal Beam
+Sinistcha @ Loaded Dice  
+Ability: Hospitality  
+Level: 90  
+Tera Type: Water  
+EVs: 252 HP / 252 SpA / 4 SpD  
+Quiet Nature  
+IVs: 0 Atk  
+- Shadow Ball  
+- Matcha Gotcha  
+- Scald  
+- Trick Room  
 
 === TRAINER_VANESSA ===
 Name: VANESSA
@@ -6783,67 +6742,48 @@ Class: Winstrate
 Pic: Expert F
 Gender: Female
 Music: Intense
-Double Battle: No
+Double Battle: Yes
 AI: Basic Trainer
 
-Tsareena @ Loaded Dice  
-Ability: Sweet Veil  
-Level: 51  
+Tyranitar (M) @ Tyranitarite  
+Ability: Sand Stream  
+Level: 85  
 EVs: 252 HP / 252 Atk / 4 SpD  
 Adamant Nature  
-- Synthesis  
-- Triple Axel  
-- Bullet Seed  
-- High Jump Kick  
-
-Wishiwashi @ Muscle Band  
-Ability: Schooling  
-Level: 52    
-EVs: 252 HP / 4 Atk / 252 SpA  
-Mild Nature  
-- Hydro Pump  
-- Iron Tail  
-- Ice Beam  
 - Earthquake  
-
-Hatterene @ Big Root  
-Ability: Magic Bounce  
-Level: 53    
-EVs: 252 HP / 252 SpA / 4 SpD  
-Modest Nature  
-IVs: 0 Atk  
-- Calm Mind  
-- Draining Kiss  
-- Dark Pulse  
-- Mystical Fire  
-
-Falinks @ Muscle Band  
-Ability: Defiant  
-Level: 54    
-EVs: 252 HP / 252 Atk / 4 SpD  
-Adamant Nature  
-- Close Combat  
-- No Retreat  
-- Megahorn  
+- Crunch  
 - Iron Head  
+- Aerial Ace  
 
-Bellibolt @ Magnet  
-Ability: Electromorphosis  
-Level: 54    
-EVs: 252 HP / 4 Atk / 252 SpA  
-Quiet Nature  
-- Thunderbolt  
-- Muddy Water  
+Excadrill (M) @ Leftovers  
+Ability: Sand Rush  
+Level: 85   
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Earthquake  
+- Iron Head  
+- Poison Jab  
+- Rapid Spin  
+
+Dugtrio @ Loaded Dice  
+Ability: Arena Trap  
+Level: 85   
+EVs: 248 Atk / 8 SpD / 248 Spe  
+Jolly Nature  
+- Rock Blast  
+- Earthquake  
+- Shadow Claw  
 - Sucker Punch  
-- Acid Spray  
 
-Maushold-Four @ Loaded Dice  
-Ability: Technician  
-Level: 55   
-- Population Bomb  
-- Bullet Seed  
-- Play Rough  
-- Aerial Ace
+Garganacl @ Leftovers  
+Ability: Purifying Salt  
+Level: 90  
+EVs: 252 HP / 4 Atk / 252 Def  
+Impish Nature  
+- Recover  
+- Hammer Arm  
+- Salt Cure  
+- Sandstorm  
 
 === TRAINER_SHELBY_1 ===
 Name: SHELBY
@@ -12595,60 +12535,49 @@ Music: Female
 Double Battle: Yes
 AI: Basic Trainer
 
-Kangaskhan (F) @ Kangaskhanite  
-Ability: Scrappy  
-Level: 60
-EVs: 252 Atk / 4 SpD / 252 Spe  
-Jolly Nature  
-- Crunch  
-- Mega Kick  
-- Outrage  
-- Earthquake  
-
-Primarina (F) @ Primarium Z  
-Ability: Liquid Voice 
-Level: 60   
-EVs: 252 HP / 252 SpA / 4 SpD  
-Modest Nature  
-IVs: 0 Atk  
-- Hyper Voice  
-- Sparkling Aria  
-- Energy Ball  
-- Dazzling Gleam  
-
-Pikachu-Starter @ Light Ball  
-Ability: Static  
-Level: 60
-EVs: 252 Atk / 4 SpA / 252 Spe  
-Hasty Nature  
-- Floaty Fall  
-- Brick Break  
-- Zippy Zap  
-- Splishy Splash  
-
-Gengar (M) @ Life Orb  
-Ability: Cursed Body  
-Level: 60
-Gigantamax: Yes  
+Ninetales @ Heat Rock  
+Ability: Drought  
+Level: 90  
 EVs: 252 SpA / 4 SpD / 252 Spe  
 Timid Nature  
 IVs: 0 Atk  
+- Extrasensory  
 - Shadow Ball  
-- Foul Play  
-- Sludge Wave  
+- Flamethrower  
+- Solar Beam  
+
+Indeedee-F @ Life Orb  
+Ability: Psychic Surge  
+Level: 90  
+EVs: 4 Atk / 252 SpA / 252 Spe  
+Hasty Nature  
+- Expanding Force  
+- Shadow Ball  
+- Fake Out  
 - Energy Ball  
 
-Terapagos @ Chesto Berry  
-Ability: Tera Shift  
-Level: 60
-Tera Type: Stellar  
-EVs: 248 HP / 252 SpA / 8 SpD  
-Modest Nature  
-IVs: 15 Atk  
-- Tera Starstorm  
-- Dazzling Gleam  
-- Calm Mind  
-- Rest
+Castform @ Leftovers  
+Ability: Forecast  
+Level: 90  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Weather Ball  
+- Solar Beam  
+- Tailwind  
+- Shadow Ball  
+
+Charizard @ Wide Lens  
+Ability: Solar Power  
+Level: 95  
+Gigantamax: Yes  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Fire Blast  
+- Solar Beam  
+- Air Slash  
+- Scorching Sands  
 
 === TRAINER_HALEY_2 ===
 Name: HALEY
